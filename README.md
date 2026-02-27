@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://customgpt.ai/wp-content/uploads/2024/01/CustomGPT-Logo-1.svg" alt="CustomGPT.ai" width="320">
+  <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="320">
 </p>
 
 <h1 align="center">CustomGPT Agent</h1>
@@ -71,7 +71,7 @@ The agent was evaluated on the [GAIA Benchmark](https://huggingface.co/spaces/ga
 
 <p align="center">
   <a href="https://customgpt.ai">
-    <img src="https://customgpt.ai/wp-content/uploads/2024/01/CustomGPT-Logo-1.svg" alt="CustomGPT.ai" width="240">
+    <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="240">
   </a>
 </p>
 
@@ -153,7 +153,7 @@ User Question
   title={CustomGPT Agent: Enterprise AI Agent with RAG-Augmented Multi-Agent Architecture},
   author={Dennis Yavuz},
   year={2026},
-  url={https://github.com/customgpt/customgpt-agent}
+  url={https://github.com/uckmhnds/customgpt-agent}
 }
 ```
 
