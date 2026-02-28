@@ -67,30 +67,6 @@ The agent was evaluated on the [GAIA Benchmark](https://huggingface.co/spaces/ga
 
 ---
 
-## About CustomGPT.ai
-
-<p align="center">
-  <a href="https://customgpt.ai">
-    <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="240">
-  </a>
-</p>
-
-[**CustomGPT.ai**](https://customgpt.ai) is an enterprise AI platform that enables businesses to build custom AI agents powered by their own data — with no hallucinations and full source citations.
-
-**Key Capabilities:**
-- **1,400+ data formats** — Ingest websites, documents, helpdesks, videos, and more
-- **Anti-hallucination technology** — Third-party verified #1 for accuracy
-- **92 languages** supported
-- **40+ REST API endpoints** — Full programmatic access for agent integration
-- **SOC-2 Type II & GDPR** compliant
-- **Enterprise-grade security** — Data never used for LLM training
-
-In this agent, CustomGPT.ai serves as the **knowledge base layer**, providing semantic search, ranked context retrieval, and citation-backed answers from proprietary enterprise data.
-
-> *"Business AI for trusted answers — no hallucinations, no guessing."*
-
----
-
 ## Key Features
 
 1. **Multi-Agent Architecture** — Specialized subagents (LOOKUP, COMPUTATION, FILE ANALYSIS, CRITIC) collaborate under a central orchestrator for divide-and-conquer problem solving
@@ -128,6 +104,30 @@ User Question
               ▼
         Final Answer (with reasoning trace)
 ```
+
+---
+
+## About CustomGPT.ai
+
+<p align="center">
+  <a href="https://customgpt.ai">
+    <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="240">
+  </a>
+</p>
+
+[**CustomGPT.ai**](https://customgpt.ai) is an enterprise AI platform that enables businesses to build custom AI agents powered by their own data — with no hallucinations and full source citations.
+
+**Key Capabilities:**
+- **1,400+ data formats** — Ingest websites, documents, helpdesks, videos, and more
+- **Anti-hallucination technology** — Third-party verified #1 for accuracy
+- **92 languages** supported
+- **40+ REST API endpoints** — Full programmatic access for agent integration
+- **SOC-2 Type II & GDPR** compliant
+- **Enterprise-grade security** — Data never used for LLM training
+
+In this agent, CustomGPT.ai serves as the **knowledge base layer**, providing semantic search, ranked context retrieval, and citation-backed answers from proprietary enterprise data.
+
+> *"Business AI for trusted answers — no hallucinations, no guessing."*
 
 ---
 
