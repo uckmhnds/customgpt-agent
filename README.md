@@ -133,7 +133,7 @@ In this agent, CustomGPT.ai serves as the **knowledge base layer**, providing se
 
 ## Author
 
-**Dennis Yavuz**
+**[Dennis Yavuz](https://github.com/uckmhnds)**
 
 ---
 
