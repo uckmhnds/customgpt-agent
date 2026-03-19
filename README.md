@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="320">
+  <img src="assets/logo.svg" alt="CustomGPT.ai" width="320">
 </p>
 
 <h1 align="center">CustomGPT Agent</h1>
@@ -111,7 +111,7 @@ User Question
 
 <p align="center">
   <a href="https://customgpt.ai">
-    <img src="https://customgpt.ai/wp-content/uploads/2024/11/Logo.svg" alt="CustomGPT.ai" width="240">
+    <img src="assets/logo.svg" alt="CustomGPT.ai" width="240">
   </a>
 </p>
 
